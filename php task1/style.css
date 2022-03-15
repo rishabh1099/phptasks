@@ -1,0 +1,40 @@
+#container {
+    width: 40%;
+    height: 350px;
+    display: flex;
+    margin: auto;
+    background-color: #dcdcfa;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 5px 5px 5px 5px #a6a6a6;
+}
+
+#container h1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type=number] {
+    height: 20px;
+}
+
+#feet {
+    width: 45%;
+}
+
+#meter {
+    width: 45%;
+}
+
+#height {
+    width: 93%;
+}
+
+input[type=submit] {
+    width: 80px;
+    padding: 10px;
+    background-color: #5c5ceb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

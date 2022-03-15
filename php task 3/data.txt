@@ -1,0 +1,25 @@
+Username : Rishabh singh 
+Email : rs@email.com 
+Password : qwert 
+Address : Lucknow 
+City : Luckniw 
+Username : Aman 
+Email : a@email.com 
+Password : qsdf 
+Address : lko 
+City : lko 
+Username : Suryaa 
+Email : sd@email.com 
+Password : 12345 
+Address : lko 
+City : wef 
+Username : Pankaj 
+Email : pp@gamil.com 
+Password : qwert 
+Address : 2wqs 
+City : dfzdf 
+Username : Rishabh 
+Email : rishabh@gmail.com 
+Password : 12345 
+Address : lko 
+City : lko 
